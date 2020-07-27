@@ -1,8 +1,8 @@
 # Clustering  using Bradley-Fayyad-Reina (BFR) algorithm
 Implementation of BFR Clustering using PySpark
 ### Input Dataset:
-- initialze points from random centroids with random standard deviations.
-- some random noise data
+- Initializing points from random centroids with random standard deviations.
+- Randomly generate some noise data
 
 Example
 |data point index   | index of cluster  | data vector
